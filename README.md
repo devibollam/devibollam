@@ -84,7 +84,7 @@
 
 ---
 
-     ## 🔥 **GitHub Stats**
+## 🔥 **GitHub Stats**
 
 | ![Devi's GitHub stats](https://github-readme-stats.vercel.app/api?username=devibollam&show_icons=true&theme=radical) | [![Devi's Streak](https://streak-stats.demolab.com?user=devibollam&theme=dark&border_radius=7&mode=weekly)](https://git.io/streak-stats) |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
