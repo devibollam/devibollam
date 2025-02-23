@@ -9,7 +9,7 @@
 ## 🚀 **About Me**
 - 🤖 **AI/ML Engineer** passionate about **Deep Learning**, **Computer Vision**, and **Generative AI**  
 - 🏠 **Building AI-powered applications** that solve real-world problems  
-- 🔬 Currently exploring **LLMs, multimodal AI, and AI deployments**  
+- 🔬 Currently exploring **LLMs, multimodal AI, and AI deployments**
 - 🚀 **Open Source Contributor** and AI enthusiast  
 
 ---
