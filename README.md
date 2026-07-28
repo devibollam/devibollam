@@ -1,31 +1,17 @@
-<div align="center">
+<p align="center">
+<img src="assets/banner.png" width="100%">
+</p>
 
-<a href="https://www.devibollam.online">
-Portfolio
-</a>
+<br>
 
-&nbsp;&nbsp;·&nbsp;&nbsp;
+<p align="center">
 
-<a href="https://github.com/devibollam?tab=repositories">
-Projects
-</a>
+<a href="https://www.devibollam.online">Portfolio</a> •
+<a href="https://github.com/devibollam?tab=repositories">Projects</a> •
+<a href="www.linkedin.com/in/devibollam">LinkedIn</a>
 
-&nbsp;&nbsp;·&nbsp;&nbsp;
+</p>
 
-<a href="https://github.com/devibollam">
-Open Source
-</a>
+---
 
-&nbsp;&nbsp;·&nbsp;&nbsp;
-
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN/">
-LinkedIn
-</a>
-
-&nbsp;&nbsp;·&nbsp;&nbsp;
-
-<a href="mailto:YOUR_EMAIL@gmail.com">
-Contact
-</a>
-
-</div>
+## Featured AI Systems
