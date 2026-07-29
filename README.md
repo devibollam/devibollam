@@ -4,4 +4,8 @@
     src="https://raw.githubusercontent.com/devibollam/devibollam/main/profile-img.png"
   />
 </a>
-[Learn more about me](https://www.devibollam.online)
+<p align="center">
+  <a href="https://www.devibollam.online">
+    <strong>🌐 Explore my portfolio →</strong>
+  </a>
+</p>
