@@ -6,6 +6,6 @@
 </a>
 <p align="center">
   <a href="https://www.devibollam.online">
-    <strong>🌐 Explore my portfolio →</strong>
+    <strong>Explore my portfolio →</strong>
   </a>
 </p>
