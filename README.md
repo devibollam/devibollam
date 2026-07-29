@@ -4,5 +4,4 @@
     src="https://raw.githubusercontent.com/devibollam/devibollam/main/profile-img.png"
   />
 </a>
-
-### 🌐 https://www.devibollam.online
+[Learn more about me](https://www.devibollam.online)
